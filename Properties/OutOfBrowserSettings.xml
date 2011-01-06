@@ -1,0 +1,7 @@
+<OutOfBrowserSettings ShortName="Lunar Landurz Application" EnableGPUAcceleration="True" ShowInstallMenuItem="False">
+  <OutOfBrowserSettings.Blurb>Lunar Landurz Application on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="Lunar Landurz Application" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons />
+</OutOfBrowserSettings>
